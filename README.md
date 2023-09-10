@@ -1,4 +1,4 @@
-# cs378 : Human-AI interaction 
+# CS378 : Human-AI interaction 
 
 Course description:
 
